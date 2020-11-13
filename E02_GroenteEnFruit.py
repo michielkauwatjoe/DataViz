@@ -13,8 +13,7 @@
 #
 #     E06_DataViz.py
 #
-#    Currently only works in DrawBotContext
 #
 
 # TODO: show one or more examples of data visualization techniques.
-# Mabye visualize this? https://www.milieucentraal.nl/milieubewust-eten/groente-en-fruit/
+# Maybe visualize this? https://www.milieucentraal.nl/milieubewust-eten/groente-en-fruit/
