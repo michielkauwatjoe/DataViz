@@ -3,6 +3,7 @@
 # https://knmi.nl/kennis-en-datacentrum/achtergrond/data-ophalen-vanuit-een-script
 # https://github.com/EnergieID/KNMI-py
 # https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+# https://rethinkdb.com/
 
 import knmi
 from latlon import Latitude, Longitude
